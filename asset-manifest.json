@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/naveennekkanti1/unstop-frontend/static/css/main.91e5ebf6.css",
+    "main.js": "/naveennekkanti1/unstop-frontend/static/js/main.191b17bf.js",
+    "static/js/453.28174f98.chunk.js": "/naveennekkanti1/unstop-frontend/static/js/453.28174f98.chunk.js",
+    "index.html": "/naveennekkanti1/unstop-frontend/index.html",
+    "main.91e5ebf6.css.map": "/naveennekkanti1/unstop-frontend/static/css/main.91e5ebf6.css.map",
+    "main.191b17bf.js.map": "/naveennekkanti1/unstop-frontend/static/js/main.191b17bf.js.map",
+    "453.28174f98.chunk.js.map": "/naveennekkanti1/unstop-frontend/static/js/453.28174f98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91e5ebf6.css",
+    "static/js/main.191b17bf.js"
+  ]
+}
